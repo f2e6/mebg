@@ -11,5 +11,8 @@
 
 ## Install
 ```sh
-git clone https://github.com/f2e6/mebg && chmod +x mebg/mebg.sh && cp mebg/mebg.sh /usr/local/bin/mebg
+git clone https://github.com/f2e6/mebg
+cd mebg
+sudo cp mebg.sh /usr/local/bin/mebg
+sudo chmod +x /usr/local/bin/mebg
 ```
