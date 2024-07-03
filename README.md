@@ -1,4 +1,8 @@
-# MEBG
+# mebg
+
+## Showcase
+
+![showcase](https://github.com/f2e6/mebg/blob/main/example.png?raw=true)
 
 ## Dependencies 
 - fzf - fuzzy search
